@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cardBackground">#1E1E1E</color>
+    <color name="textColorBright">#FFFFFF</color>
+    <color name="appBar">#1E1E1E</color>
+    <color name="backArrow">#3D83F3</color>
+    <color name="bottomNavView">#1E1E1E</color>
+    <color name="managePaymentIcon">#4F5FF8</color>
+    <color name="statusBar">#121212</color>
+    <color name="searchBar">#1E1E1E</color>
+    <color name="fb">#337CFB</color>
+    <color name="thisMonth">#9C0303</color>
+    <color name="tmAmt">#FFFFFF</color>
+    <color name="background">#121212</color>
+
+    // Row layout Transaction
+    <color name="amount">#FF0000</color>
+    <color name="restText">#F1F1F1</color>
+
+    //calender
+    <color name="calender">#FF6600</color>
+
+
+
+
+
+
+
+
+</resources>
