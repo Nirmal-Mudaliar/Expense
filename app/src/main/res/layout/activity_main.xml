@@ -20,7 +20,7 @@
             android:layout_width="match_parent"
             android:layout_height="1.5dp"
             android:layout_above="@+id/bottom_navigation"
-            android:background="#DFDFDF"/>
+            android:background="@color/line"/>
     </com.google.android.material.bottomnavigation.BottomNavigationView>
 
     <androidx.fragment.app.FragmentContainerView
