@@ -132,13 +132,11 @@
         android:name="com.example.expense.ui.home.UpdateTransactionFragment"
         android:label="fragment_update_transaction"
         tools:layout="@layout/fragment_update_transaction" >
-        <action
-            android:id="@+id/action_updateTransactionFragment_to_homeFragment"
-            app:destination="@id/homeFragment"
-            app:popUpTo="@id/homeFragment"
-            app:popUpToInclusive="true" />
         <argument
             android:name="currentTransaction"
             app:argType="com.example.expense.data.db.entities.Transactions" />
+        <action
+            android:id="@+id/action_updateTransactionFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
     </fragment>
 </navigation>
